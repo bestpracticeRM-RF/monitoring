@@ -1,5 +1,5 @@
 GRAFANA_VERSION="10.4.2"
-#PROMETHEUS_URL="http://172.31.29.90:9090" нужно подставить свой ip
+#PROMETHEUS_URL="http://192.168.3.10:9090" нужно подставить свой ip
 
 
 apt-get install -y apt-transport-https software-properties-common wget
